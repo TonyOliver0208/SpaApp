@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014549076083",
+    "project_id": "spaapp-ad5ed",
+    "storage_bucket": "spaapp-ad5ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014549076083:android:9b017869c7416c32c5b206",
+        "android_client_info": {
+          "package_name": "com.spaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014549076083-t77ac4pv1suclebdpcg3q5ebto9f6gag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxFyhiDJat-SSD2WxFx-dm9yV97tkQ5W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014549076083-t77ac4pv1suclebdpcg3q5ebto9f6gag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
